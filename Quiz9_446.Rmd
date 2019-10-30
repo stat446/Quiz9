@@ -1,0 +1,14 @@
+---
+title: "Quiz 9"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#### 1. (5 points)
+Describe the process for finding the variance of stratified sample estimator for a population mean. You are welcome to use mathematical equations or prose.
+
+### 2. (5 point)
+Variance calculations for ratio estimators require the term $s_e^2$. Provide some intuition behind the quantity $y_i -\hat{B}x_i$ that shows up in this variance calculation. Recall the variance for srs used $y_i -\bar{y}$.
